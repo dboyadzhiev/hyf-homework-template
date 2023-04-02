@@ -1,3 +1,4 @@
 we are 16 of us
 and your
-add changes to remove with git reset
+add changes to remove with git reset again
+add a new line
