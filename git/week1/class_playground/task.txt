@@ -1,7 +1,3 @@
 hello class 25! 
 Today is your first day with Git 
-<<<<<<< Updated upstream
-line 4
-=======
 new line here
->>>>>>> Stashed changes
